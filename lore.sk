@@ -1,3 +1,5 @@
+#Credit Ventit#8880
+
 command /addlore <text>:
     permission: op
     trigger:
