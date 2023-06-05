@@ -28,6 +28,4 @@ Commands:
 
   - Removes the complete lore of an item
 
-Discord: Ventit#8880 or make a
-
-Ticket at https://discord.gg/cuSbKFqccg 
+Discord: Ventit#8880 or make a Ticket at https://discord.gg/cuSbKFqccg
